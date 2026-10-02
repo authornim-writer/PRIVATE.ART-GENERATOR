@@ -1,0 +1,2 @@
+# PRIVATE.ART-GENERATOR
+Nsfw safe
