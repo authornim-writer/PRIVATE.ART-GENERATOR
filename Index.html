@@ -1,3 +1,9 @@
+let accessCode = prompt("Enter private access code:");
+if (accessCode !== "ChooseYourSecretPasswordHere") {
+    document.body.innerHTML = "<h1>Access Denied</h1>";
+    window.stop();
+}
+
 <!DOCTYPE html>
 <html>
 <head><meta name="viewport" content="width=device-width, initial-scale=1"></head>
